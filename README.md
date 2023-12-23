@@ -1,6 +1,6 @@
 <img align="center" width="100%" src="https://i.ibb.co/gmGLzjm/Vito-Daniele-Maiellaro.png"/>
 <h1 align="center">Hi 👋, I'm Vito Daniele Maiellaro</h1>
-<h3 align="center">A full stack developer from Italy</h3>
+<h3 align="center">a full stack developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vdanielem&label=Profile%20views&color=0e75b6&style=flat" alt="vdanielem" /> </p>
 
